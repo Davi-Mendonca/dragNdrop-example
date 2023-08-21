@@ -9,4 +9,4 @@ New features will be implements.
 
 ## New features
 
-improvements in progress ![Loading gif](./src/assets/loading.gif)
+improvements in progress    <img src="./src/assets/loading.gif" alt="Texto Alternativo" width="20" height="20">
